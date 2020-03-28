@@ -18,4 +18,4 @@ In order to work this plugin, you need to install a basic RESTful API to device 
 
 
 
-[npm link] (https://www.npmjs.com/package/homebridge-nuriel-deneme-switch)
+[npm link](https://www.npmjs.com/package/homebridge-nuriel-deneme-switch)
